@@ -1,0 +1,44 @@
+{
+  "packages": [
+    {
+      "name": "zzInoVIDPID",
+      "maintainer": "per1234",
+      "websiteURL": "https://github.com/per1234/zzInoVIDPID",
+      "email": "",
+      "help": {
+        "online": ""
+      },
+      "platforms": [
+        {
+          "name": "zzInoVIDPID",
+          "architecture": "zzInoVIDPID",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "help": {
+            "online": ""
+          },
+          "url": "https://per1234.github.io/zzInoVIDPID/zzInoVIDPID_1.0.0.tar.bz2",
+          "archiveFileName": "zzInoVIDPID_1.0.0.tar.bz2",
+          "checksum": "SHA-256:1186989075967a4ebe6495d067586d5716b55b379d3cdbaec1ffe920865a7f6b",
+          "size": "2811",
+          "boards": [
+            {"name": "FT232x"},
+            {"name": "FT230X"},
+            {"name": "FT231X"},
+            {"name": "FT234XD"},
+            {"name": "FT2232x"},
+            {"name": "FT4232H"},
+            {"name": "Bricked counterfeit FTDI FT232"},
+            {"name": "CH340"},
+            {"name": "CH341"},
+            {"name": "CP210x"},
+            {"name": "PL2303"},
+            {"name": "MCP2221"}
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
