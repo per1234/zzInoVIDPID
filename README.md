@@ -37,4 +37,8 @@ There are two options for installing **zzInoVIDPID** in the Arduino IDE:
 - Silicon Labs CP210x
 - Prolific PL2303
 - Microchip MCP2221
-- If you would like me to add a part please open an issue.
+- If you would like me to add a part please [open an issue](https://github.com/per1234/zzInoVIDPID/issues/new).
+
+
+#### Contributing
+Pull requests or issue reports are welcome! Please see the [contribution rules](https://github.com/per1234/asdf/blob/master/CONTRIBUTING.md) for instructions.
