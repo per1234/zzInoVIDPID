@@ -27,6 +27,7 @@ There are two options for installing **zzInoVIDPID** in the Arduino IDE:
 ## Defined parts
 - FTDI
   - FT232x
+  - FT245x
   - FT230X
   - FT231X
   - FT234XD
