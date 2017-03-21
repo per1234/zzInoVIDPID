@@ -5,6 +5,7 @@ Arduino boards and some clones that are based on ATmega32U4 or use the ATmega16U
 
 
 ## Installation
+Note that after installation some new boards will be added to the bottom of your **Tools > Board** menu. These are necessary for the port identification and can't be used. Please ignore them.
 There are two options for installing **zzInoVIDPID** in the Arduino IDE:
 #### Boards Manager Installation(requires Arduino IDE version 1.6.4 or greater)
 - Open the Arduino IDE.
@@ -39,8 +40,8 @@ There are two options for installing **zzInoVIDPID** in the Arduino IDE:
 - Prolific PL2303
 - Microchip MCP2221
 - Cypress CY7C65213
-- If you would like me to add a part please [open an issue](https://github.com/per1234/zzInoVIDPID/issues/new).
+- If you would like me to add a part please [open an issue](https://github.com/per1234/zzInoVIDPID/issues/new) or a [pull request](https://github.com/per1234/zzInoVIDPID/compare).
 
 
 #### Contributing
-Pull requests or issue reports are welcome! Please see the [contribution rules](https://github.com/per1234/asdf/blob/master/CONTRIBUTING.md) for instructions.
+Pull requests or issue reports are welcome! Please see the [contribution rules](https://github.com/per1234/zzInoVIDPID/blob/master/CONTRIBUTING.md) for instructions.
