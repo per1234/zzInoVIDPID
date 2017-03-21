@@ -45,3 +45,11 @@ There are two options for installing **zzInoVIDPID** in the Arduino IDE:
 
 #### Contributing
 Pull requests or issue reports are welcome! Please see the [contribution rules](https://github.com/per1234/zzInoVIDPID/blob/master/CONTRIBUTING.md) for instructions.
+
+
+## Ports menu before:
+![before screenshot](https://github.com/per1234/zzInoVIDPID/raw/screenshots/before.png)
+
+
+## Ports menu after:
+![after screenshot](https://github.com/per1234/zzInoVIDPID/raw/screenshots/after.png)
