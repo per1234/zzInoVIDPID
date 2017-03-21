@@ -97,3 +97,8 @@ MCP2221.pid.7=0x00DD
 MCP2221.vid.8=0x04D8
 MCP2221.pid.8=0x0207
 MCP2221.build.board=ZZINOVIDPID_MCP2221
+##############################################################
+CY7C65213.name=CY7C65213
+CY7C65213.vid.0=0x04B4
+CY7C65213.pid.0=0x0003
+CY7C65213.build.board=ZZINOVIDPID_CY7C65213
