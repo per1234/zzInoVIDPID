@@ -49,7 +49,7 @@ CH341.build.board=ZZINOVIDPID_CH341
 ##############################################################
 CP210x.name=CP210x
 CP210x.vid.0=0x10C4
-CP210x.pid.0=0x80a9
+CP210x.pid.0=0x80A9
 CP210x.vid.1=0x10C4
 CP210x.pid.1=0xEA60
 CP210x.vid.2=0x10C4
@@ -70,11 +70,11 @@ PL2303.pid.0=0x2303
 PL2303.vid.1=0x067B
 PL2303.pid.1=0x2304
 PL2303.vid.2=0x067B
-PL2303.pid.2=0x04bb
+PL2303.pid.2=0x04BB
 PL2303.vid.3=0x067B
-PL2303.pid.3=0xaaa2
+PL2303.pid.3=0xAAA2
 PL2303.vid.4=0x067B
-PL2303.pid.4=0xaaa3
+PL2303.pid.4=0xAAA3
 PL2303.build.board=ZZINOVIDPID_PL2303
 ##############################################################
 MCP2221.name=MCP2221
