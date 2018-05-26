@@ -4,6 +4,11 @@ sudo: false
 
 language: bash
 
+branches:
+  only:
+    - gh-pages
+    - /.*/
+
 script:
   # Formatting checks:
   # Check for files starting with a blank line
