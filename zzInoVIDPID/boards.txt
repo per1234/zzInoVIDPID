@@ -1,46 +1,55 @@
 ##############################################################
 FTDI_PID_6001.name=FTDI FT232RL/RQ/BM/BL/BQ, FT245RL/RQ/BM/BL/BQ, VNC1L, VNC2
+FTDI_PID_6001.hide=
 FTDI_PID_6001.vid.0=0x0403
 FTDI_PID_6001.pid.0=0x6001
 FTDI_PID_6001.build.board=ZZINOVIDPID_FTDI_PID_6001
 ##############################################################
 FT2232.name=FTDI FT2232C/D/L/HL/HQ
+FT2232.hide=
 FT2232.vid.0=0x0403
 FT2232.pid.0=0x6010
 FT2232.build.board=ZZINOVIDPID_FT2232
 ##############################################################
 FT4232.name=FTDI FT4232HL/HQ
+FT4232.hide=
 FT4232.vid.0=0x0403
 FT4232.pid.0=0x6011
 FT4232.build.board=ZZINOVIDPID_FT4232
 ##############################################################
 FTDI_PID_6014.name=FTDI FT232HL/HQ
+FTDI_PID_6014.hide=
 FTDI_PID_6014.vid.0=0x0403
 FTDI_PID_6014.pid.0=0x6014
 FTDI_PID_6014.build.board=ZZINOVIDPID_FTDI_PID_6014
 ##############################################################
 FTDI_PID_6015.name=FTDI Bridge(I2C/SPI/UART/FIFO)
+FTDI_PID_6015.hide=
 FTDI_PID_6015.vid.0=0x0403
 FTDI_PID_6015.pid.0=0x6015
 FTDI_PID_6015.build.board=ZZINOVIDPID_FTDI_PID_6015
 ##############################################################
 FTDI_PID_6031.name=FTDI MISC
+FTDI_PID_6031.hide=
 FTDI_PID_6031.vid.0=0x0403
 FTDI_PID_6031.pid.0=0x6031
 FTDI_PID_6031.build.board=ZZINOVIDPID_FTDI_PID_6031
 ##############################################################
 # A windows FTDI driver update changed the PID of counterfeit FT232 chips to 0000 to brick them
 counterfeit_FT232.name=Bricked Counterfeit FTDI FT232
+counterfeit_FT232.hide=
 counterfeit_FT232.vid.0=0x0403
 counterfeit_FT232.pid.0=0x0000
 counterfeit_FT232.build.board=ZZINOVIDPID_counterfeit_FT232
 ##############################################################
 CH340.name=CH340
+CH340.hide=
 CH340.vid.0=0x1A86
 CH340.pid.0=0x7523
 CH340.build.board=ZZINOVIDPID_CH340
 ##############################################################
 CH341.name=CH341
+CH341.hide=
 CH341.vid.0=0x1A86
 CH341.pid.0=0x5523
 CH341.vid.1=0x4348
@@ -48,6 +57,7 @@ CH341.pid.1=0x5523
 CH341.build.board=ZZINOVIDPID_CH341
 ##############################################################
 CP210x.name=CP210x
+CP210x.hide=
 CP210x.vid.0=0x10C4
 CP210x.pid.0=0x80A9
 CP210x.vid.1=0x10C4
@@ -65,6 +75,7 @@ CP210x.pid.6=0xEAD0
 CP210x.build.board=ZZINOVIDPID_CP210x
 ##############################################################
 PL2303.name=PL2303
+PL2303.hide=
 PL2303.vid.0=0x067B
 PL2303.pid.0=0x2303
 PL2303.vid.1=0x067B
@@ -78,6 +89,7 @@ PL2303.pid.4=0xAAA3
 PL2303.build.board=ZZINOVIDPID_PL2303
 ##############################################################
 MCP2221.name=MCP2221
+MCP2221.hide=
 MCP2221.vid.0=0x04D8
 MCP2221.pid.0=0x000A
 MCP2221.vid.1=0x04D8
@@ -99,6 +111,7 @@ MCP2221.pid.8=0x0207
 MCP2221.build.board=ZZINOVIDPID_MCP2221
 ##############################################################
 CY7C65213.name=CY7C65213
+CY7C65213.hide=
 CY7C65213.vid.0=0x04B4
 CY7C65213.pid.0=0x0003
 CY7C65213.build.board=ZZINOVIDPID_CY7C65213
