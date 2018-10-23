@@ -65,6 +65,35 @@
             {"name": "CY7C65213"}
           ],
           "toolsDependencies": []
+        },
+        {
+          "name": "zzInoVIDPID",
+          "architecture": "zzInoVIDPID",
+          "version": "1.2.0",
+          "category": "Contributed",
+          "help": {
+            "online": ""
+          },
+          "url": "https://per1234.github.io/zzInoVIDPID/zzInoVIDPID-1.2.0.tar.bz2",
+          "archiveFileName": "zzInoVIDPID-1.2.0.tar.bz2",
+          "checksum": "SHA-256:c7ad70f0bbb0905eac0d0caa37e5234f34535c50b94cf13429170e70b87adc1f",
+          "size": "2738",
+          "boards": [
+            {"name": "FT232x"},
+            {"name": "FT230X"},
+            {"name": "FT231X"},
+            {"name": "FT234XD"},
+            {"name": "FT2232x"},
+            {"name": "FT4232H"},
+            {"name": "Bricked counterfeit FTDI FT232"},
+            {"name": "CH340"},
+            {"name": "CH341"},
+            {"name": "CP210x"},
+            {"name": "PL2303"},
+            {"name": "MCP2221"},
+            {"name": "CY7C65213"}
+          ],
+          "toolsDependencies": []
         }
       ],
       "tools": []
