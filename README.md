@@ -5,7 +5,6 @@ Arduino boards and some clones that are based on ATmega32U4 or use the ATmega16U
 
 
 ## Installation
-Note that after installation some new boards will be added to the bottom of your **Tools > Board** menu. These are necessary for the port identification and can't be used. Please ignore them.
 There are two options for installing **zzInoVIDPID** in the Arduino IDE:
 #### Boards Manager Installation(requires Arduino IDE version 1.6.4 or greater)
 - Open the Arduino IDE.
