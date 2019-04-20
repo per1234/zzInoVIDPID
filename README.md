@@ -39,6 +39,7 @@ There are two options for installing **zzInoVIDPID** in the Arduino IDE:
 - Prolific PL2303
 - Microchip MCP2221
 - Cypress CY7C65213
+- Holtek HT42B534
 - If you would like me to add a part please [open an issue](https://github.com/per1234/zzInoVIDPID/issues/new) or a [pull request](https://github.com/per1234/zzInoVIDPID/compare).
 
 

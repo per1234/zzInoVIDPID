@@ -115,3 +115,9 @@ CY7C65213.hide=
 CY7C65213.vid.0=0x04B4
 CY7C65213.pid.0=0x0003
 CY7C65213.build.board=ZZINOVIDPID_CY7C65213
+##############################################################
+HT42B534.name=HT42B534
+HT42B534.hide=
+HT42B534.vid.0=0x04D9
+HT42B534.pid.0=0xB534
+HT42B534.build.board=ZZINOVIDPID_HT42B534
