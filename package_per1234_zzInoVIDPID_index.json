@@ -94,6 +94,36 @@
             {"name": "CY7C65213"}
           ],
           "toolsDependencies": []
+        },
+        {
+          "name": "zzInoVIDPID",
+          "architecture": "zzInoVIDPID",
+          "version": "1.3.0",
+          "category": "Contributed",
+          "help": {
+            "online": ""
+          },
+          "url": "https://github.com/per1234/zzInoVIDPID/releases/download/1.3.0/zzInoVIDPID-1.3.0_boardsmanager.tar.bz2",
+          "archiveFileName": "zzInoVIDPID-1.3.0_boardsmanager.tar.bz2",
+          "checksum": "SHA-256:d018ca8401e641abfdc2b90a3c95512f61312817c0eab62c108736c72fc112a0",
+          "size": "2743",
+          "boards": [
+            {"name": "FT232x"},
+            {"name": "FT230X"},
+            {"name": "FT231X"},
+            {"name": "FT234XD"},
+            {"name": "FT2232x"},
+            {"name": "FT4232H"},
+            {"name": "Bricked counterfeit FTDI FT232"},
+            {"name": "CH340"},
+            {"name": "CH341"},
+            {"name": "CP210x"},
+            {"name": "PL2303"},
+            {"name": "MCP2221"},
+            {"name": "CY7C65213"},
+            {"name": "HT42B534"}
+          ],
+          "toolsDependencies": []
         }
       ],
       "tools": []
