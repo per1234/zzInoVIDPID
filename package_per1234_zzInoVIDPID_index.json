@@ -17,10 +17,10 @@
           "help": {
             "online": ""
           },
-          "url": "https://per1234.github.io/zzInoVIDPID/zzInoVIDPID_1.0.0.tar.bz2",
-          "archiveFileName": "zzInoVIDPID_1.0.0.tar.bz2",
-          "checksum": "SHA-256:1186989075967a4ebe6495d067586d5716b55b379d3cdbaec1ffe920865a7f6b",
-          "size": "2811",
+          "url": "https://github.com/per1234/zzInoVIDPID/releases/download/1.0.0/zzInoVIDPID-1.0.0_boardsmanager.tar.bz2",
+          "archiveFileName": "zzInoVIDPID-1.0.0_boardsmanager.tar.bz2",
+          "checksum": "SHA-256:df2612117ed14640a1f9d17143326de50dfff8a11c86b81bfb9d1010ee55ab19",
+          "size": "2827",
           "boards": [
             {"name": "FT232x"},
             {"name": "FT230X"},
@@ -45,10 +45,10 @@
           "help": {
             "online": ""
           },
-          "url": "https://per1234.github.io/zzInoVIDPID/zzInoVIDPID-1.1.0.tar.bz2",
-          "archiveFileName": "zzInoVIDPID-1.1.0.tar.bz2",
-          "checksum": "SHA-256:b809b1114e1cc1e38730ae11794c178a24a68137c42304980704bc12edc50b06",
-          "size": "3935",
+          "url": "https://github.com/per1234/zzInoVIDPID/releases/download/1.1.0/zzInoVIDPID-1.1.0_boardsmanager.tar.bz2",
+          "archiveFileName": "zzInoVIDPID-1.1.0_boardsmanager.tar.bz2",
+          "checksum": "SHA-256:038ed9ab0240ddc552868b814b0be4f16cdedb8d772a05a0a19ad17a609161aa",
+          "size": "3945",
           "boards": [
             {"name": "FT232x"},
             {"name": "FT230X"},
@@ -74,10 +74,10 @@
           "help": {
             "online": ""
           },
-          "url": "https://per1234.github.io/zzInoVIDPID/zzInoVIDPID-1.2.0.tar.bz2",
-          "archiveFileName": "zzInoVIDPID-1.2.0.tar.bz2",
-          "checksum": "SHA-256:c7ad70f0bbb0905eac0d0caa37e5234f34535c50b94cf13429170e70b87adc1f",
-          "size": "2738",
+          "url": "https://github.com/per1234/zzInoVIDPID/releases/download/1.2.0/zzInoVIDPID-1.2.0_boardsmanager.tar.bz2",
+          "archiveFileName": "zzInoVIDPID-1.2.0_boardsmanager.tar.bz2",
+          "checksum": "SHA-256:eac58403fba7c4e7929d8c0ba39f78b5bf80c460d7ba6aed04e7ce1dbc71f1d2",
+          "size": "2759",
           "boards": [
             {"name": "FT232x"},
             {"name": "FT230X"},
