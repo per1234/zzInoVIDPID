@@ -1,7 +1,8 @@
 zzInoVIDPID
 ==========
 VID/PID definitions for all common USB to serial chips for the [Arduino](https://arduino.cc) IDE. Used to identify ports listed on the **Tools > Port** menu.
-Arduino boards and some clones that are based on ATmega32U4 or use the ATmega16U2/8U2 chips for the USB to serial interface display the board name in the **Tools > Port** menu but other commonly used boards have other types of USB to serial chips and thus do not show the board name in the menu. If you have multiple serial ports on your computer it can get very confusing to remember which port is which. This project helps to reduce this confusion by identifying common USB to serial chips that may be used by these ports.
+
+Arduino boards that are based on ATmega32U4 or use the ATmega16U2/8U2 chips for the USB to serial interface display the board name in the **Tools > Port** menu. Other commonly used boards have different USB to serial chips without customized VID/PID, and thus do not show the board name in the menu. If you have multiple serial ports on your computer, it can get very confusing to remember which port is which. This project helps to reduce this confusion by labeling the ports of common USB to serial chips in the Arduino IDE **Tools > Port** menu with the chip name.
 
 
 ## Installation
@@ -16,6 +17,8 @@ There are two options for installing **zzInoVIDPID** in the Arduino IDE:
   - **Note**: If you are using Arduino IDE 1.6.6 you may need to close **Boards Manager** and then reopen it before the **zzInoVIDPID** entry will appear.
 - Click **Install**.
 - After installation is complete close the **Boards Manager** window.
+- **File > Quit**
+- Restart the Arduino IDE.
 
 #### Manual Installation
 - Download the zzInoVIDPID files here: https://github.com/per1234/zzInoVIDPID/archive/master.zip
@@ -28,8 +31,8 @@ There are two options for installing **zzInoVIDPID** in the Arduino IDE:
 - FTDI
   - FT232x
   - FT245x
-  - FT230X
-  - FT231X
+  - FT230x
+  - FT231x
   - FT234XD
   - FT2232x
   - FT4232H
